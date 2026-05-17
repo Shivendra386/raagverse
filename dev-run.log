@@ -1,0 +1,44 @@
+
+> raagverse@0.1.0 dev
+> next dev --hostname 127.0.0.1 --port 3000
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://127.0.0.1:3000
+- Network:       http://127.0.0.1:3000
+✓ Ready in 337ms
+Creating turbopack project {
+  dir: 'C:\\Users\\Administrator\\Desktop\\New folder\\raagverse',
+  testMode: true
+}
+
+ GET /courses 200 in 323ms (next.js: 157ms, application-code: 166ms)
+ GET /courses 200 in 78ms (next.js: 5ms, application-code: 73ms)
+ GET /auth 200 in 47ms (next.js: 27ms, application-code: 20ms)
+ POST /api/auth/login 200 in 458ms (next.js: 161ms, application-code: 297ms)
+ GET /dashboard/student 200 in 70ms (next.js: 38ms, application-code: 32ms)
+ GET /classroom/cls_yaman_weekly 200 in 1061ms (next.js: 956ms, application-code: 105ms)
+ GET /classroom/cls_yaman_weekly 200 in 421ms (next.js: 336ms, application-code: 85ms)
+ GET /classroom/cls_yaman_weekly 200 in 181ms (next.js: 49ms, application-code: 131ms)
+ GET /classroom/cls_yaman_weekly 200 in 95ms (next.js: 3ms, application-code: 91ms)
+ GET /classroom/cls_yaman_weekly 200 in 50ms (next.js: 3ms, application-code: 47ms)
+ GET /classroom/cls_yaman_weekly 200 in 50ms (next.js: 19ms, application-code: 31ms)
+ GET /courses 200 in 184ms (next.js: 87ms, application-code: 98ms)
+ POST /api/auth/login 200 in 95ms (next.js: 76ms, application-code: 19ms)
+ POST /api/payments/checkout 200 in 178ms (next.js: 169ms, application-code: 9ms)
+ POST /api/courses/crs_vocal_raaga/enroll 200 in 642ms (next.js: 627ms, application-code: 15ms)
+ POST /api/auth/login 200 in 8ms (next.js: 1802µs, application-code: 6ms)
+ PATCH /api/admin/teachers/usr_teacher_pending/approval 200 in 710ms (next.js: 701ms, application-code: 9ms)
+ GET /courses 200 in 65ms (next.js: 3ms, application-code: 61ms)
+ GET /courses 200 in 38ms (next.js: 3ms, application-code: 36ms)
+ GET / 200 in 203ms (next.js: 30ms, application-code: 173ms)
+ GET /auth 200 in 75ms (next.js: 55ms, application-code: 20ms)
+ GET / 200 in 72ms (next.js: 4ms, application-code: 68ms)
+ GET /auth 200 in 14ms (next.js: 2ms, application-code: 12ms)
+ POST /api/auth/login 200 in 18ms (next.js: 3ms, application-code: 15ms)
+ GET /dashboard/teacher 200 in 322ms (next.js: 290ms, application-code: 32ms)
+ GET /classroom/cls_yaman_weekly 200 in 98ms (next.js: 9ms, application-code: 89ms)
+✓ Compiled in 43ms
+✓ Compiled in 31ms
+ POST /api/auth/login 200 in 115ms (next.js: 93ms, application-code: 22ms)
+ POST /api/payments/checkout 200 in 79ms (next.js: 70ms, application-code: 10ms)
+ POST /api/courses/crs_vocal_raaga/enroll 200 in 69ms (next.js: 57ms, application-code: 11ms)
